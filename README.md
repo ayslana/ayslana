@@ -1,6 +1,6 @@
 <div align="center">
-  <img class="img" src="https://github-readme-stats.vercel.app/api?username=ayslana&?count_private=true&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true&include_all_prs=true&hide_title=true&hide_rank=true" />
-  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayslana&layout=compact&theme=graywhite"/>
+  <img class="img" src="https://github-readme-stats.vercel.app/api?username=ayslana&?count_private=true&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true&include_all_prs=true&hide_title=true&hide_rank=true" />
+  <img class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayslana&layout=compact&theme=apprentice"/>
 </div>
 
 <div align="center">
